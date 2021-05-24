@@ -1,2 +1,5 @@
 # hello-world
-My first repo!
+
+Hello Canada!
+
+My name is Gagan and I want to become a GitHub expert!
